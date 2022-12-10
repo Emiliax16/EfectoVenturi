@@ -1,0 +1,4 @@
+Para ejecutar el programa, se debe abrir exclusivamente el archivo:
+INICIAR_AQUI.py
+
+Cualquier modificación en los otros archivos podría culminar en un error.
